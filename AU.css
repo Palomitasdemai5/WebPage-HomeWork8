@@ -1,0 +1,31 @@
+body{
+  background-color: rgba(92, 155, 218, 0.91);
+}
+
+#logo{
+  max-width: 7%;
+  max-height: 7%;
+}
+
+.nav-item{
+  font-size: 20px;
+}
+
+nav{
+  margin-bottom: 30px;
+}
+
+#logo2{
+  font-size: 50px;
+  margin: auto;
+}
+
+#logo2img{
+  max-width: 10%;
+  max-height: 10%;
+}
+
+#undertext{
+  font-size: 30px;
+  margin: auto;
+}
